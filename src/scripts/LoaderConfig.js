@@ -1,7 +1,8 @@
 export const LoaderConfig = {
      bg : require("../sprites/bg.png"),
      bg : require("../sprites/fs_bg.png"),
-     frame : require("../sprites/BlownAway_Reels_Frame.png"),     
+     frame : require("../sprites/BlownAway_Reels_Frame.png"), 
+     reel_bg : require("../sprites/BA_ReelBackground.png"), 
      puzzle1 :  require("../sprites/1.jpg"),
      puzzle2 :  require("../sprites/2.jpg"),
      puzzle3 :  require("../sprites/3.jpg"),
